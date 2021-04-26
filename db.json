@@ -12,14 +12,14 @@
              "description": "Rapidcoin NFT",
              "external_url": "https://nftscoop.co",
              "image": "https://nftscoop.co/rapidcoin.png",
-              "name": "My NFT 1"
+              "name": "Rapid Coin NFT"
   },
   {
           "id": 2,
              "description": "Coinchapter NFT",
               "external_url": "https://nftscoop.co",
               "image": "https://nftscoop.co/coinchapter.png",
-              "name": "My NFT 2"
+              "name": "Coinchapter NFT"
   }
 
     ]
